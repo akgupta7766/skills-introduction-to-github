@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎉 Congratulations akgupta7766! 🎉
+# 🎉 Congratulations Ashish Kumar! 🎉
 
 <img src="https://octodex.github.com/images/welcometocat.png" height="200px" />
 
